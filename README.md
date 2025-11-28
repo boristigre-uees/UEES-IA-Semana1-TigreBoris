@@ -45,10 +45,9 @@ Las visualizaciones (histogramas, pairplots, curvas de entrenamiento) se guardan
 
 ## Notas
 - GPU en Colab: Cambia a "GPU" en Entorno de ejecución para acelerar ML.
-- Errores comunes: Asegúrate de ejecutar la configuración inicial en cada notebook.
 - Automatización: La función `save_to_github` al final de cada notebook sube cambios a GitHub.
 
 ## Link del Repositorio
 [github.com/boristigre-uees/UEES-IA-Semana1-TigreBoris](https://github.com/boristigre-uees/UEES-IA-Semana1-TigreBoris)
 
-¡Gracias por revisar! Si tienes preguntas, contacta a boris.tigre@uees.edu.ec.
+
