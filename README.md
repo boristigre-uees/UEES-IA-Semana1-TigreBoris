@@ -4,10 +4,10 @@
 ## Introducción
 Este repositorio contiene el laboratorio práctico de la Semana 1 del curso de Inteligencia Artificial en UEES, enfocado en fundamentos de Python para IA (NumPy, Pandas, visualización, ML básico y Deep Learning intro). El trabajo incluye 4 notebooks en Google Colab, análisis de datasets obligatorios (Titanic, Iris, Boston, Wine, Digits) y automatización de guardado en GitHub.
 
-**Autores**: Boris Tigre, Denisse Flores, Andres Flores, Arnaldo Rojas
+**Autores**: Boris Tigre, Denisse Flores, Andres Florencia, Arnaldo Rojas
 **Fecha**: 26 de noviembre de 2025  
 **Curso**: UEES - IA Semana 1  
-**Repositorio**: [github.com/boristigre-uees/UEES-IA-Semana1-TigreBoris](https://github.com/boristigre-uees/UEES-IA-Semana1-TigreBoris)
+**Repositorio**: [github.com/boristigre-uees/UEES-IA-Semana1-Grupo4](https://github.com/boristigre-uees/UEES-IA-Semana1-Grupo4)
 
 ## Estructura del Repositorio
 - **02_Laboratorio/notebooks/**: Los 4 notebooks principales (.ipynb):
@@ -48,6 +48,6 @@ Las visualizaciones (histogramas, pairplots, curvas de entrenamiento) se guardan
 - Automatización: La función `save_to_github` al final de cada notebook sube cambios a GitHub.
 
 ## Link del Repositorio
-[github.com/boristigre-uees/UEES-IA-Semana1-TigreBoris](https://github.com/boristigre-uees/UEES-IA-Semana1-TigreBoris)
+[github.com/boristigre-uees/UEES-IA-Semana1-Grupo4](https://github.com/boristigre-uees/UEES-IA-Semana1-Grupo4)
 
 
